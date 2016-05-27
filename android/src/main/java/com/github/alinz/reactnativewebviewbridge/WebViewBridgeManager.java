@@ -1,5 +1,9 @@
 package com.github.alinz.reactnativewebviewbridge;
 
+
+import javax.annotation.Nullable;
+import java.util.Map;
+
 import android.webkit.WebView;
 import com.facebook.react.uimanager.ThemedReactContext;
 import com.facebook.react.views.webview.ReactWebViewManager;
